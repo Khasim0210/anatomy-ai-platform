@@ -1,0 +1,64 @@
+# -----------------------------
+# OS / Editor files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# Environment variables / secrets
+# -----------------------------
+.env
+.env.*
+*.env
+
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+backend/venv/
+venv/
+.venv/
+
+# -----------------------------
+# Databases
+# -----------------------------
+backend/anatomy_ai.db
+*.db
+*.sqlite
+*.sqlite3
+
+# -----------------------------
+# Uploaded private course files
+# -----------------------------
+backend/uploads/
+
+# -----------------------------
+# Node / React
+# -----------------------------
+node_modules/
+frontend/node_modules/
+
+# -----------------------------
+# Build output
+# -----------------------------
+frontend/dist/
+dist/
+build/
+
+# -----------------------------
+# Logs
+# -----------------------------
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# -----------------------------
+# IDE settings
+# -----------------------------
+.vscode/
+.idea/
