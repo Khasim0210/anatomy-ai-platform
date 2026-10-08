@@ -1,4 +1,4 @@
-~/anatomy-ai
+i
 # Anatomy AI Platform
 
 An AI-powered anatomy learning and lecture review platform for analyzing course notes, identifying potential factual issues, supporting instructor review with evidence, and enabling student Q&A.
